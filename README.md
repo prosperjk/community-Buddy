@@ -1,1 +1,1 @@
-# local-web
+# community-buddy
